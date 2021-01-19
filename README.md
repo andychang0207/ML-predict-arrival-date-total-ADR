@@ -28,7 +28,7 @@ https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
     - Adaboost regression
 
-        ![alt text](./adaboost_adr.png)
+        ![alt text](./adaboost_adr.PNG)
 * 預測rank
     - Linear regression
 
@@ -92,7 +92,7 @@ accuracy，若500次沒有進步則early stop。
         對稱式架構9層隱藏層，並跑3000次epoch，監督validation 的rank
 accuracy，若500次沒有進步則early stop。
 
-    ![alt text](./dnn_fig.png)
+    ![alt text](./dnn_fig.PNG)
 
 ## Results
 
@@ -116,4 +116,4 @@ accuracy，若500次沒有進步則early stop。
         優點：準確度較高、有較多參數可以調整、模型較強
         缺點：可解釋性較差、訓練時間較久、網路架構只能用try and error優化
 
-<img src='./score_compare.png' />
+<img src='./score_compare.PNG' />
